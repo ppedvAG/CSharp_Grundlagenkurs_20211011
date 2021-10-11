@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace M001_01_BoolischeLogikl
 {
@@ -64,7 +65,7 @@ namespace M001_01_BoolischeLogikl
             bool ergebnis17a = booleanFalsch ^ booleanWahr; //true
             bool ergebnis18 = booleanWahr ^ booleanWahr; //false
             bool ergebnis19 = booleanFalsch ^ booleanFalsch; //false
-             
+
             /*    AND
              *    Ausdruck1     |       Ausdruck2   |   Ausgabe
              *    true          |       true        |   true
@@ -86,6 +87,12 @@ namespace M001_01_BoolischeLogikl
              *   false          |       true        |   true
              *   false          |       false       |   false
              */
+
+
+            string howMuchLetter = "ABCDEFGkjdfgldsbfgl";
+            Console.WriteLine(howMuchLetter.Length); //direkte ausgabe 
+
+            Console.WriteLine(howMuchLetter.Count()); //Linq->Count -> Hier beginnt er zuerst mit der ermittlung.... 
         }
     }
 }

@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M002_03_ParsenCasting", "M0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_01_BoolischeLogik", "M001_01_BoolischeLogikl\M003_01_BoolischeLogik.csproj", "{5A029ADE-8FF2-4448-9EDE-327A7A7E8559}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_02_Kontrollstrukturen", "M003_02_Kontrollstrukturen\M003_02_Kontrollstrukturen.csproj", "{C3FC7526-36F9-47D8-8083-2724B6BCACBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_03_Schleifen", "M003_03_Schleifen\M003_03_Schleifen.csproj", "{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +48,14 @@ Global
 		{5A029ADE-8FF2-4448-9EDE-327A7A7E8559}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A029ADE-8FF2-4448-9EDE-327A7A7E8559}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A029ADE-8FF2-4448-9EDE-327A7A7E8559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FC7526-36F9-47D8-8083-2724B6BCACBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FC7526-36F9-47D8-8083-2724B6BCACBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FC7526-36F9-47D8-8083-2724B6BCACBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FC7526-36F9-47D8-8083-2724B6BCACBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
