@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\Lab_Lottospiel.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\Lab_Lottospiel.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\Lab_Lottospiel.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\Lab_Lottospiel.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\Lab_Lottospiel.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\ref\Lab_Lottospiel.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\bin\Debug\net5.0\Lab_Lottospiel.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\ref\Lab_Lottospiel.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Lottospiel\obj\Debug\net5.0\Lab_Lottospiel.genruntimeconfig.cache

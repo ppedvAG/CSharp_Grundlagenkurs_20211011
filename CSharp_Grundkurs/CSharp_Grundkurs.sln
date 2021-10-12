@@ -3,24 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M001_01_HelloWorld", "M001_01_HelloWorld\M001_01_HelloWorld.csproj", "{15263926-0415-4132-8457-EC30DF485A9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M001_01_HelloWorld", "M001_01_HelloWorld\M001_01_HelloWorld.csproj", "{15263926-0415-4132-8457-EC30DF485A9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M002_01_Datentypen", "M002_01_Datentypen\M002_01_Datentypen.csproj", "{EAF4A58F-1741-4F28-9730-8DA77A410D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M002_01_Datentypen", "M002_01_Datentypen\M002_01_Datentypen.csproj", "{EAF4A58F-1741-4F28-9730-8DA77A410D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M002_02_Operatoren", "M002_02_Operatoren\M002_02_Operatoren.csproj", "{22A28E84-1FFF-4642-9441-C93E5360B28F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M002_02_Operatoren", "M002_02_Operatoren\M002_02_Operatoren.csproj", "{22A28E84-1FFF-4642-9441-C93E5360B28F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7DEA9A7-2239-46CB-A6B9-94C3A6A88F64}"
 	ProjectSection(SolutionItems) = preProject
 		todo.txt = todo.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M002_03_ParsenCasting", "M002_03_ParsenCasting\M002_03_ParsenCasting.csproj", "{CBF0BDAD-0D05-402F-B54B-0DC302AC88F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M002_03_ParsenCasting", "M002_03_ParsenCasting\M002_03_ParsenCasting.csproj", "{CBF0BDAD-0D05-402F-B54B-0DC302AC88F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_01_BoolischeLogik", "M001_01_BoolischeLogikl\M003_01_BoolischeLogik.csproj", "{5A029ADE-8FF2-4448-9EDE-327A7A7E8559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M003_01_BoolischeLogik", "M001_01_BoolischeLogikl\M003_01_BoolischeLogik.csproj", "{5A029ADE-8FF2-4448-9EDE-327A7A7E8559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_02_Kontrollstrukturen", "M003_02_Kontrollstrukturen\M003_02_Kontrollstrukturen.csproj", "{C3FC7526-36F9-47D8-8083-2724B6BCACBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M003_02_Kontrollstrukturen", "M003_02_Kontrollstrukturen\M003_02_Kontrollstrukturen.csproj", "{C3FC7526-36F9-47D8-8083-2724B6BCACBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M003_03_Schleifen", "M003_03_Schleifen\M003_03_Schleifen.csproj", "{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M003_03_Schleifen", "M003_03_Schleifen\M003_03_Schleifen.csproj", "{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M004_01_Arrays", "M004_01_Arrays\M004_01_Arrays.csproj", "{D57C158E-C098-433A-9489-4CE5A658B6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Lottospiel", "Lab_Lottospiel\Lab_Lottospiel.csproj", "{B6C73354-8C63-4C04-A881-E8099C07AFE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +60,14 @@ Global
 		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57C158E-C098-433A-9489-4CE5A658B6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57C158E-C098-433A-9489-4CE5A658B6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57C158E-C098-433A-9489-4CE5A658B6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57C158E-C098-433A-9489-4CE5A658B6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C73354-8C63-4C04-A881-E8099C07AFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C73354-8C63-4C04-A881-E8099C07AFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C73354-8C63-4C04-A881-E8099C07AFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C73354-8C63-4C04-A881-E8099C07AFE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

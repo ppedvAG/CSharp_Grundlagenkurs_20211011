@@ -57,10 +57,10 @@ namespace M003_03_Schleifen
 
 
             //kompaktere Schreibwweise
-
+            //Array.Copy( ) -> kopieren von Arrays
             int[] array2 = new int[] { 123, 456, 789, 111, 222, 333, 444, 555, 666, 777, }; //Array hat jetzt eine feste größe von 10 Elementen
 
-            for (int i = 0; i <= array2.Length; i++)
+            for (int i = 0; i < array2.Length; i++)
             {
                 Console.WriteLine(array2[i]);
             }
@@ -93,6 +93,99 @@ namespace M003_03_Schleifen
             } //Wenn zahlen leer ist oder eine List<int> leer ist, gibt es keinen Durchlauf
             Console.Write("\n");
             #endregion
+
+
+            #region while-schleife
+            
+            //While Schleife als Zählschleife
+            int n = 0;
+            //Condition -> Bedienung
+            
+            while(n < 5)
+            {
+                Console.WriteLine(n);
+                n++;
+            }
+            #endregion
+
+
+
+            #region do - while
+            n = 0;
+            do
+            {
+                Console.WriteLine(n);
+                n++;
+            } while (n < 5);
+
+            #endregion
+
+
+            #region for schleife like while-schleife
+
+            n = 0;
+            for (; n < 5;)
+            {
+                Console.WriteLine(n);
+                n++;
+            }
+
+            #endregion
+
+
+
+            #region Break-Befehl bei while / For / do-while
+            //Endlosschleife mit Ausgang (Break-Befehl)
+
+            int count = 0;
+
+
+            while(true)
+            {
+                if (count == 100000)
+                    break; // ab dem Durchgang 100000 wird mit Brak die Schleife die Schleife beendet. 
+
+                count++;
+            }
+
+
+            //Verschachtelte Schleife mit Break
+            Console.Clear();
+            count = 0;
+
+            for (int x = 0; x < 10; x++)
+            {
+                Console.WriteLine($"Ausgabe von x: {x}");
+
+                for (int y = 0; y < 10; y++)
+                {
+                    Console.WriteLine($"Ausgabe von y: {y}");
+
+                    if (y == 3)
+                        break;
+                }
+
+            }
+            #endregion
+
+            #region Continue-Befehl 
+            Console.Clear();
+            Console.WriteLine("Continue Sample - 7er Reihenfolge");
+            for (int i = 0; i < 1000; i++)
+            {
+                if (i % 7 != 0)
+                {
+                    continue; //
+                    //Console.WriteLine("Wer das in einer Konsolen lesen, wird mit ewigen Leben beschenkt");
+                }
+                    
+
+
+                Console.WriteLine(i); // 7er Reihenfolge 
+            }
+
+            #endregion
+
         }
     }
 }
