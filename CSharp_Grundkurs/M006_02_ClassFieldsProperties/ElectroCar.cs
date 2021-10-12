@@ -12,10 +12,36 @@ namespace M006_02_ClassFieldsProperties
         private string _marke;
         private string _model;
         private int _baujahr;
-        private int _reichweite = 100;
+        private int _reichweite = 100; //Default
 
         private int _maximaleGeschwindigkeit;
         private int _aktuelleGeschwindigkeit;
+
+
+        //Konstruktoren regeln das gesamte befüllen von Variablen (Member-Variablen oder Fields) 
+        
+        //Konstruktoren ohne Parameter nennt man Default Konstruktoren
+        public ElectroCar()
+        {
+            //Das auto soll am Anfang stehen
+            MotorOn = false;
+            AktuelleGeschwindigkeit = 0;
+        }
+
+        public ElectroCar( string marke, string model, int baujahr, int reichweite, int maximaleGeschw, bool motorOn)
+            : this()
+        {
+            Marke = marke;
+            Model = model;
+            Baujahr = baujahr;
+            Reichweite = reichweite; //set -> pricvate set = Ich setze INNERHALB der Klasse die Property Reichweite.
+            MaximaleGeschwindigkeit = maximaleGeschw;
+        }
+
+        
+
+
+
 
         //Ausgeschriebene Property
         public string Marke
@@ -55,6 +81,17 @@ namespace M006_02_ClassFieldsProperties
         // Properties können auch nur ein Get-Part haben 
         public int Reichweite
         {
+            //Hier muss die REichweite irgendwie gesetzt werden:
+            
+            //Variante1: Default Wert an der Variablen 
+            //per Konstruktor
+            private set
+            {
+                _reichweite = value;
+            }
+
+
+
             get
             {
                 return _reichweite;
