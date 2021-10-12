@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloW
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\bin\Debug\net5.0\ref\M001_01_HelloWorld.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.pdb
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.AssemblyInfo.cs

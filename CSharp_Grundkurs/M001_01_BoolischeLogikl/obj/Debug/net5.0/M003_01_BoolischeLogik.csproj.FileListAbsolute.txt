@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\M003_01_BoolischeLogik.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\M003_01_BoolischeLogik.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\M003_01_BoolischeLogik.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\M003_01_BoolischeLogik.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\M003_01_BoolischeLogik.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\ref\M003_01_BoolischeLogik.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\bin\Debug\net5.0\M003_01_BoolischeLogik.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\ref\M003_01_BoolischeLogik.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M001_01_BoolischeLogikl\obj\Debug\net5.0\M003_01_BoolischeLogik.genruntimeconfig.cache
