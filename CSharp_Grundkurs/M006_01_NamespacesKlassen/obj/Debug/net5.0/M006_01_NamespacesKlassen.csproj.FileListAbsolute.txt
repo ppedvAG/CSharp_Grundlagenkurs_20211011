@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\M006_01_NamespacesKlassen.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\M006_01_NamespacesKlassen.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\M006_01_NamespacesKlassen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\M006_01_NamespacesKlassen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\M006_01_NamespacesKlassen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\ref\M006_01_NamespacesKlassen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\bin\Debug\net5.0\M006_01_NamespacesKlassen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\ref\M006_01_NamespacesKlassen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_01_NamespacesKlassen\obj\Debug\net5.0\M006_01_NamespacesKlassen.genruntimeconfig.cache
