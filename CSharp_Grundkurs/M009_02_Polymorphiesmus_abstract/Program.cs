@@ -19,7 +19,22 @@ namespace M009_02_Polymorphiesmus_abstract
             geoCollection.Add(sqaure);
 
             foreach (Shape current in geoCollection)
-                Console.WriteLine($"Die Klasse {current.ToString()} ruft die Methode: GetArea auf mit folgendem Ergebnis {current.GetArea()}"); 
+                Console.WriteLine($"Die Klasse {current.ToString()} ruft die Methode: GetArea auf mit folgendem Ergebnis {current.GetArea()}");
+
+
+
+            #region abstract Properties / Methode UND virtual Propery / Methode
+            //abstract / oerride 
+            DerivedClass2WithVirtualMethods derivedClass2 = new DerivedClass2WithVirtualMethods();
+            derivedClass2.X = 11;
+            derivedClass2.Y = 22;
+            derivedClass2.AbstractMethode();
+            
+            //Virtual/Override
+            derivedClass2.Z = 33;
+            Console.WriteLine(derivedClass2.Display()); 
+            #endregion
+
         }
     }
 }

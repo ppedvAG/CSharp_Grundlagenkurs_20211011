@@ -1,1 +1,12 @@
 1.) Warum wird kaufmännisches Runden nicht richtig verwenden. 
+
+Was kann ich einem Teilnehmer nach diesem Kurs empfehlen:
+- Üben
+- Solid / Design Patterns 
+
+Themen für freie Zeit: 
+- records 
+- delegates (Events) 
+- Solid 
+- Tuple
+- Generic 
