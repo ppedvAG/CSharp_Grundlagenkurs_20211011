@@ -22,19 +22,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M003_02_Kontrollstrukturen"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M003_03_Schleifen", "M003_03_Schleifen\M003_03_Schleifen.csproj", "{02CF8B23-19EF-4DEC-81C7-2A665C00B9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M004_01_Arrays", "M004_01_Arrays\M004_01_Arrays.csproj", "{D57C158E-C098-433A-9489-4CE5A658B6A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M004_01_Arrays", "M004_01_Arrays\M004_01_Arrays.csproj", "{D57C158E-C098-433A-9489-4CE5A658B6A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Lottospiel", "Lab_Lottospiel\Lab_Lottospiel.csproj", "{B6C73354-8C63-4C04-A881-E8099C07AFE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_Lottospiel", "Lab_Lottospiel\Lab_Lottospiel.csproj", "{B6C73354-8C63-4C04-A881-E8099C07AFE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M004_02_Enums", "M004_02_Enums\M004_02_Enums.csproj", "{064123D5-B83A-46B4-AD84-C912455E37FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M004_02_Enums", "M004_02_Enums\M004_02_Enums.csproj", "{064123D5-B83A-46B4-AD84-C912455E37FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M005_01_StatischeMethoden", "M005_01_StatischeMethoden\M005_01_StatischeMethoden.csproj", "{5D62522C-BA4F-4D51-A75E-8669E559DEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M005_01_StatischeMethoden", "M005_01_StatischeMethoden\M005_01_StatischeMethoden.csproj", "{5D62522C-BA4F-4D51-A75E-8669E559DEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M006_01_NamespacesKlassen", "M006_01_NamespacesKlassen\M006_01_NamespacesKlassen.csproj", "{FF49127E-D9AD-4853-83F2-9E9F19472A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M006_01_NamespacesKlassen", "M006_01_NamespacesKlassen\M006_01_NamespacesKlassen.csproj", "{FF49127E-D9AD-4853-83F2-9E9F19472A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M006_02_ClassFieldsProperties", "M006_02_ClassFieldsProperties\M006_02_ClassFieldsProperties.csproj", "{5BA1B88F-BB3B-4EAD-849A-F0A6CEF85BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M006_02_ClassFieldsProperties", "M006_02_ClassFieldsProperties\M006_02_ClassFieldsProperties.csproj", "{5BA1B88F-BB3B-4EAD-849A-F0A6CEF85BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiederholungTag2_TheClass", "WiederholungTag2_TheClass\WiederholungTag2_TheClass.csproj", "{519FCA3C-F609-4761-8D40-E64DDD990F35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiederholungTag2_TheClass", "WiederholungTag2_TheClass\WiederholungTag2_TheClass.csproj", "{519FCA3C-F609-4761-8D40-E64DDD990F35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M006_03_PartialClass", "M006_03_PartialClass\M006_03_PartialClass.csproj", "{6C76E3FD-191F-4555-A6E0-ADC3785CBDFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M006_03_PartialClass_InWinForms", "M006_03_PartialClass_InWinForms\M006_03_PartialClass_InWinForms.csproj", "{11C1BE1C-C31B-411D-9A26-DA6A50423604}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M007_01_Object", "M007_01_Object\M007_01_Object.csproj", "{C07732B1-933C-436C-84CF-FA36CDF16641}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M007_02_Methoden", "M007_02_Methoden\M007_02_Methoden.csproj", "{4CE1ACAC-B8D8-4D13-920F-26D20B80B0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M007_03_UsingSample", "M007_03_UsingSample\M007_03_UsingSample.csproj", "{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +108,26 @@ Global
 		{519FCA3C-F609-4761-8D40-E64DDD990F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519FCA3C-F609-4761-8D40-E64DDD990F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519FCA3C-F609-4761-8D40-E64DDD990F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C76E3FD-191F-4555-A6E0-ADC3785CBDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C76E3FD-191F-4555-A6E0-ADC3785CBDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C76E3FD-191F-4555-A6E0-ADC3785CBDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C76E3FD-191F-4555-A6E0-ADC3785CBDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C1BE1C-C31B-411D-9A26-DA6A50423604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C1BE1C-C31B-411D-9A26-DA6A50423604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C1BE1C-C31B-411D-9A26-DA6A50423604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C1BE1C-C31B-411D-9A26-DA6A50423604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07732B1-933C-436C-84CF-FA36CDF16641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07732B1-933C-436C-84CF-FA36CDF16641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07732B1-933C-436C-84CF-FA36CDF16641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07732B1-933C-436C-84CF-FA36CDF16641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE1ACAC-B8D8-4D13-920F-26D20B80B0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE1ACAC-B8D8-4D13-920F-26D20B80B0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE1ACAC-B8D8-4D13-920F-26D20B80B0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE1ACAC-B8D8-4D13-920F-26D20B80B0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
