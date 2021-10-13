@@ -46,6 +46,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M007_02_Methoden", "M007_02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M007_03_UsingSample", "M007_03_UsingSample\M007_03_UsingSample.csproj", "{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M008_01_Vererbung", "M008_01_Vererbung\M008_01_Vererbung.csproj", "{875F8190-3417-4446-AEB4-DDDABA9C21F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78BE087F-17D3-413B-BBB6-64DE5CC2FB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875F8190-3417-4446-AEB4-DDDABA9C21F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875F8190-3417-4446-AEB4-DDDABA9C21F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875F8190-3417-4446-AEB4-DDDABA9C21F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875F8190-3417-4446-AEB4-DDDABA9C21F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

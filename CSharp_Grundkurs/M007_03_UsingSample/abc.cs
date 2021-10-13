@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace M007_03_UsingSample
 {
-    public class MyFileStream
+    public class MyFileStream : IDisposable
     {
         public string FilePath { get; set; }
 
@@ -24,6 +24,14 @@ namespace M007_03_UsingSample
         public void ParseFile()
         {
             Debug.WriteLine("Wir parsen eine Datei");
+        }
+
+        public void Dispose()
+        {
+            //Hier bauen wir das Objekt ab 
+            
+            FilePath = null;
+
         }
     }
 }
