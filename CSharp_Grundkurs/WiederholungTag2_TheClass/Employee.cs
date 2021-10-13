@@ -43,8 +43,20 @@ namespace WiederholungTag2_TheClass
         }
 
         //Initialisierung Konstruktor
+        public Employee(int id, string firstname, string lastname, DateTime birthday, int salary)
+            : this()
+        {
+            Id = id;
+            Firstname = firstname;
+            Lastname = lastname;
+            Birthday = birthday;
+            Salary = salary;
+
+        }
+
+
         public Employee(int id, string firstname, string lastname, DateTime birthday)
-            :this()
+            : this()
         {
             Id = id;
             Firstname = firstname;

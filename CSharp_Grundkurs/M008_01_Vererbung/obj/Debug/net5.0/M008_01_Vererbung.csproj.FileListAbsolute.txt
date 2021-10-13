@@ -13,4 +13,3 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M008_01_Vererb
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M008_01_Vererbung\obj\Debug\net5.0\ref\M008_01_Vererbung.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M008_01_Vererbung\obj\Debug\net5.0\M008_01_Vererbung.pdb
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M008_01_Vererbung\obj\Debug\net5.0\M008_01_Vererbung.genruntimeconfig.cache
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M008_01_Vererbung\obj\Debug\net5.0\M008_01_Vererbung.csproj.AssemblyReference.cache

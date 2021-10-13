@@ -13,4 +13,3 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_03_Parsen
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_03_ParsenCasting\obj\Debug\net5.0\ref\M002_03_ParsenCasting.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.pdb
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.genruntimeconfig.cache
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.csproj.AssemblyReference.cache

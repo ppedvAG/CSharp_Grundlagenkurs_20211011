@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operat
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\bin\Debug\net5.0\ref\M002_02_Operatoren.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.pdb
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.AssemblyInfo.cs

@@ -9,7 +9,6 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_Statis
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\bin\Debug\net5.0\M005_01_StatischeMethoden.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\bin\Debug\net5.0\ref\M005_01_StatischeMethoden.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\bin\Debug\net5.0\M005_01_StatischeMethoden.pdb
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\obj\Debug\net5.0\M005_01_StatischeMethoden.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\obj\Debug\net5.0\M005_01_StatischeMethoden.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\obj\Debug\net5.0\ref\M005_01_StatischeMethoden.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M005_01_StatischeMethoden\obj\Debug\net5.0\M005_01_StatischeMethoden.pdb

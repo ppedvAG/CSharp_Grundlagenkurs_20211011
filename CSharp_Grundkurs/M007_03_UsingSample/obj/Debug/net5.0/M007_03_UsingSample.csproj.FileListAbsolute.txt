@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\M007_03_UsingSample.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\M007_03_UsingSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\M007_03_UsingSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\M007_03_UsingSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\M007_03_UsingSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\ref\M007_03_UsingSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\bin\Debug\net5.0\M007_03_UsingSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\ref\M007_03_UsingSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_03_UsingSample\obj\Debug\net5.0\M007_03_UsingSample.genruntimeconfig.cache

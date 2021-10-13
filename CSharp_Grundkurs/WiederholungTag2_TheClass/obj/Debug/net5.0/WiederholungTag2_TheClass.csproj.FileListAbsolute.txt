@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTa
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\bin\Debug\net5.0\WiederholungTag2_TheClass.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\bin\Debug\net5.0\ref\WiederholungTag2_TheClass.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\bin\Debug\net5.0\WiederholungTag2_TheClass.pdb
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\obj\Debug\net5.0\WiederholungTag2_TheClass.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\obj\Debug\net5.0\WiederholungTag2_TheClass.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\obj\Debug\net5.0\WiederholungTag2_TheClass.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\WiederholungTag2_TheClass\obj\Debug\net5.0\WiederholungTag2_TheClass.AssemblyInfo.cs

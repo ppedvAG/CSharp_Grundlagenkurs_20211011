@@ -13,4 +13,3 @@ C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_01_Object
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_01_Object\obj\Debug\net5.0\ref\M007_01_Object.dll
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_01_Object\obj\Debug\net5.0\M007_01_Object.pdb
 C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_01_Object\obj\Debug\net5.0\M007_01_Object.genruntimeconfig.cache
-C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M007_01_Object\obj\Debug\net5.0\M007_01_Object.csproj.AssemblyReference.cache

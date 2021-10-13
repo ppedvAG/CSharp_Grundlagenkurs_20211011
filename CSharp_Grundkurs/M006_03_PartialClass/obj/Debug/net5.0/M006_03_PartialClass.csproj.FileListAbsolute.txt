@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\M006_03_PartialClass.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\M006_03_PartialClass.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\M006_03_PartialClass.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\M006_03_PartialClass.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\M006_03_PartialClass.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\ref\M006_03_PartialClass.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\bin\Debug\net5.0\M006_03_PartialClass.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\ref\M006_03_PartialClass.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M006_03_PartialClass\obj\Debug\net5.0\M006_03_PartialClass.genruntimeconfig.cache
