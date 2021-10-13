@@ -35,12 +35,17 @@ namespace M006_02_ClassFieldsProperties
         }
 
 
+        public BobbyCar ()
+        {
+            MotorStatus = false;
+        }
 
         public BobbyCar(string marke, string model, int maxGeschw)
+            :this()
         {
             Marke = marke;
             Model = model;
-            MotorStatus = false;
+           
             MaximaleGeschwindigkeit = maxGeschw;
         }
 

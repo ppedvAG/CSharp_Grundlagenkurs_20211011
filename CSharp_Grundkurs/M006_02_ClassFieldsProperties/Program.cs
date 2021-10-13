@@ -47,6 +47,9 @@ namespace M006_02_ClassFieldsProperties
 
 
             #region Auto Properties
+            BobbyCar myFirtBobyCar = new BobbyCar();
+
+
             BobbyCar bobbyCar = new BobbyCar("Bugatti", "V8", 320, 2020);
 
             #endregion
