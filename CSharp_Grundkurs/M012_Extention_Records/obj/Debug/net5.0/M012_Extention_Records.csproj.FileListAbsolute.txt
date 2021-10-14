@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\M012_Extention_Records.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\M012_Extention_Records.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\M012_Extention_Records.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\M012_Extention_Records.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\M012_Extention_Records.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\ref\M012_Extention_Records.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\bin\Debug\net5.0\M012_Extention_Records.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\ref\M012_Extention_Records.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\M012_Extention_Records\obj\Debug\net5.0\M012_Extention_Records.genruntimeconfig.cache
