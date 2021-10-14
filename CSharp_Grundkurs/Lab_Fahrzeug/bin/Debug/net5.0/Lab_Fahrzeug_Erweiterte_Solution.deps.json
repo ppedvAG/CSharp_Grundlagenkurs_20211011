@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab_Fahrzeug_Erweiterte_Solution/1.0.0": {
+        "runtime": {
+          "Lab_Fahrzeug_Erweiterte_Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_Fahrzeug_Erweiterte_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

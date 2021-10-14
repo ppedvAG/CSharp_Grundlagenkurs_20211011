@@ -11,6 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M002_02_Operatoren", "M002_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7DEA9A7-2239-46CB-A6B9-94C3A6A88F64}"
 	ProjectSection(SolutionItems) = preProject
+		links.txt = links.txt
 		todo.txt = todo.txt
 	EndProjectSection
 EndProject
@@ -48,9 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M007_03_UsingSample", "M007
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M008_01_Vererbung", "M008_01_Vererbung\M008_01_Vererbung.csproj", "{875F8190-3417-4446-AEB4-DDDABA9C21F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M009_01_Polymorphiesmus_Virtual", "M009_01_Polymorphiesmus_Virtual\M009_01_Polymorphiesmus_Virtual.csproj", "{6E7C6057-0CD5-477D-8012-75917A60C57E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M009_01_Polymorphiesmus_Virtual", "M009_01_Polymorphiesmus_Virtual\M009_01_Polymorphiesmus_Virtual.csproj", "{6E7C6057-0CD5-477D-8012-75917A60C57E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M009_02_Polymorphiesmus_abstract", "M009_02_Polymorphiesmus_abstract\M009_02_Polymorphiesmus_abstract.csproj", "{31A0FC92-5606-4AC7-B841-D37A1BA6D3A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M009_02_Polymorphiesmus_abstract", "M009_02_Polymorphiesmus_abstract\M009_02_Polymorphiesmus_abstract.csproj", "{31A0FC92-5606-4AC7-B841-D37A1BA6D3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Fahrzeug_Erweiterte_Solution", "Lab_Fahrzeug\Lab_Fahrzeug_Erweiterte_Solution.csproj", "{6B736808-B89D-45E2-A147-121BE5AE442A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M009_03_SOLID_OpenClosePrincip", "M009_03_SOLID_OpenClosePrincip\M009_03_SOLID_OpenClosePrincip.csproj", "{9BEE0AC3-1B69-4A17-9A19-AA5A01583580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M009_04_Interfaces", "M009_04_Interfaces\M009_04_Interfaces.csproj", "{5BCFB691-D1A8-490D-A1D9-E5AE1446D89B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -146,6 +153,18 @@ Global
 		{31A0FC92-5606-4AC7-B841-D37A1BA6D3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A0FC92-5606-4AC7-B841-D37A1BA6D3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A0FC92-5606-4AC7-B841-D37A1BA6D3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B736808-B89D-45E2-A147-121BE5AE442A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B736808-B89D-45E2-A147-121BE5AE442A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B736808-B89D-45E2-A147-121BE5AE442A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B736808-B89D-45E2-A147-121BE5AE442A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEE0AC3-1B69-4A17-9A19-AA5A01583580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEE0AC3-1B69-4A17-9A19-AA5A01583580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEE0AC3-1B69-4A17-9A19-AA5A01583580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEE0AC3-1B69-4A17-9A19-AA5A01583580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCFB691-D1A8-490D-A1D9-E5AE1446D89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCFB691-D1A8-490D-A1D9-E5AE1446D89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCFB691-D1A8-490D-A1D9-E5AE1446D89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCFB691-D1A8-490D-A1D9-E5AE1446D89B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

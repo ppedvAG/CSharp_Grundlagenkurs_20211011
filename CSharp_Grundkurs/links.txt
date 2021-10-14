@@ -1,0 +1,15 @@
+
+
+Weiterführende Themen:
+
+OOP: 
+-> Solid:
+https://docs.microsoft.com/de-de/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp#das-offen-geschlossen-prinzip
+https://code-maze.com/solid-principles/
+
+-> Design Patterns:
+https://code-maze.com/design-patterns-csharp/
+
+Design Patterns für DataAccess Layer (Datenbankschicht) -> Repository Pattern
+https://code-maze.com/net-core-web-development-part4/
+

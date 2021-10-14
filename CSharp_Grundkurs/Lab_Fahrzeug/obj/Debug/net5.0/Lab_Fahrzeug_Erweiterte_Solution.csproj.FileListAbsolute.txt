@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\ref\Lab_Fahrzeug_Erweiterte_Solution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\bin\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\ref\Lab_Fahrzeug_Erweiterte_Solution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_20211011\CSharp_Grundkurs\Lab_Fahrzeug\obj\Debug\net5.0\Lab_Fahrzeug_Erweiterte_Solution.genruntimeconfig.cache
