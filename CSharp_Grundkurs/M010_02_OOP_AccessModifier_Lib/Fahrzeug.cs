@@ -11,11 +11,14 @@ namespace M010_02_OOP_AccessModifier_Lib
         public int publicVariable; //Überall
         private string privateVariable; //nur innerhalb der eigenen Klasse 
 
-        internal string internalString; //innerhalb der eigenen Assembly (Dll - / Exe-Project  )
+        //Wenn es um Vererbung geht (protected)
         protected string protectedString; //Wird nur innerhalb der eignen Klasse + in weitere abgeleitete Klassen
-
-        protected internal string protectedInternalString; //innerhalb der eigenen Assembly ODER oder abgeleitet Klasse in anderer Assembly
         private protected string privateProtectedString; ///nur innerhalb der eigenen Klasse  ODER innerhalb einer abgeleiteten Klasse in der aktuellen Assembly
+
+
+        internal string internalString; //innerhalb der eigenen Assembly (Dll - / Exe-Project  )
+        protected internal string protectedInternalString; //innerhalb der eigenen Assembly ODER oder abgeleitet Klasse in anderer Assembly
+
     }
 
     public class PKW : Fahrzeug

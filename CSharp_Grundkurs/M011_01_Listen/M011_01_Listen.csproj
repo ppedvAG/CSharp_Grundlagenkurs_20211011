@@ -5,8 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\M010_02_OOP_AccessModifier_Lib\M010_02_OOP_AccessModifier_Lib.csproj" />
-  </ItemGroup>
-
 </Project>
